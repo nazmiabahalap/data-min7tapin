@@ -1,0 +1,5 @@
+Resolusi Web MIN 7 Tapin
+- Web resmi MIN 7 Tapin,
+- Bisa memasukkan data Guru dan Murid,
+- membuat sign-in untuk operator,
+- Bisa membuat Aplikasi Ujian Sendiri,
